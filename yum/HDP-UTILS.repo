@@ -1,0 +1,7 @@
+#VERSION_NUMBER=2.2.0.0-2041
+[HDP-UTILS-1.1.0.20]
+name=Hortonworks Data Platform Utils Version - HDP-UTILS-1.1.0.20
+baseurl=file:///vagrant/yum/HDP-UTILS-1.1.0.20
+gpgcheck=0
+enabled=1
+priority=1

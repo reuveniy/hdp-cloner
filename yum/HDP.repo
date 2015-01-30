@@ -1,0 +1,8 @@
+#VERSION_NUMBER=2.2.0.0-2041
+[HDP-2.2.0.0]
+name=Hortonworks Data Platform Version - HDP-2.2.0.0
+baseurl=file:///vagrant/yum/HDP-2.2.0.0
+gpgcheck=0
+enabled=1
+priority=1
+
